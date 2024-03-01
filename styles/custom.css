@@ -1,0 +1,22 @@
+#story-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.story-cube {
+    width: 200px;
+    margin: 16px;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.story-cube img {
+    width: 160px;
+    height: auto;
+    margin: auto;
+    margin-bottom: 16px;
+}
